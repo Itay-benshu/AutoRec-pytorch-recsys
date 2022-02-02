@@ -20,4 +20,4 @@ class GMF(nn.Module):
         user_embeddings = self.user_embeddings(user_indices)
         item_embeddings = self.item_embeddings(item_indices)
         x = torch.mul(user_embeddings, item_embeddings)
-        return self.rd /s /q "c:\folder a"dense(x)[:, 0]
+        return self.dense(x)[:, 0]
