@@ -1,0 +1,6 @@
+{
+    "hidden_size": 935,
+    "reg_lambda": 0.1,
+    "latent_noise_factor": 0,
+    "input_noise_factor": 0.1
+}

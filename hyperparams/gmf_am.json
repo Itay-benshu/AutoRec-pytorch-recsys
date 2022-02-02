@@ -1,0 +1,5 @@
+{
+    "embedding_dimensions": 22,
+    "embeddings_init_std": 0.01345838401151454,
+    "reg": 1.9167823395911252e-06
+}
