@@ -4,4 +4,4 @@ Our pytorch implementation of Auto Encoder for recommendation systems course
 Written by Daniel Anderson (@andersource), and Itay Ben Shushan (@Itay-benshu).
 
 Results overview
-![image](https://user-images.githubusercontent.com/10333727/152375023-bf58f257-516d-41ad-acf7-656beeb64a50.png)
+![results](https://user-images.githubusercontent.com/10333727/152378779-04c9b539-6b3f-47f0-b611-5b5a283cbb1b.png)
