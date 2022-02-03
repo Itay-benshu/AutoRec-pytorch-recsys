@@ -1,0 +1,6 @@
+{
+    "hidden_size": 908,
+    "reg_lambda": 0.0007240242470857468,
+    "latent_noise_factor": 0.6774636779437467,
+    "input_noise_factor": 0.8594360564174511
+}
